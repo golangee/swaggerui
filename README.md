@@ -1,4 +1,4 @@
-# swaggerui
+# swaggerui [![GoDoc](https://godoc.org/github.com/golangee/swaggerui?status.svg)](http://godoc.org/github.com/golangee/swaggerui)  
 contains an embedded and standalone swagger-ui http handler.
 
 ## example
