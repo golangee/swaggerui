@@ -1,0 +1,4 @@
+github.com/andybalholm/brotli v1.0.0 h1:7UCwP93aiSfvWpapti8g88vVVGp2qqtGyePsSuDafo4=
+github.com/andybalholm/brotli v1.0.0/go.mod h1:loMXtMfwqflxFJPmdbJO0a3KNoPuLBgiu3qAvBg8x/Y=
+github.com/golangee/bundle v0.0.0-20200525165937-7528aa224e2f h1:vSRj44rIwd+Rt7dB1q/2uGD+FuaLTeKPfTeUOyWaCiA=
+github.com/golangee/bundle v0.0.0-20200525165937-7528aa224e2f/go.mod h1:G0RhjlyMnol/t4gBYpIhghqTsJsW08QkkQVkkB50AWE=
